@@ -1,4 +1,4 @@
-## Overview
+# Overview
 Summary of TCG DICE WG Documents, organized chronologically:
 - **Hardware Requirements for a Device Identifier Composition Engine** - DICE hardware specification
 - **Implicit Identity Based Device Attestation** - DICE attestation reference document
