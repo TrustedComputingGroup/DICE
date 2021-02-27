@@ -1,4 +1,4 @@
-# TCG DICE
+# TCG DICE Root of Trust
 ## Introduction
 Trusted computing relies on Roots of Trust to provide security critical capabilities.  Establishment of a cryptographic device identity is a fundamental capability.  A strong device identity is the foundation upon which more sophisticated scenarios can be built.  This is important since, for modern infrastructure, it's not enough to simply identify the devices on the network.  To protect sensitive data and other resources, we need to be able to reason about the security posture of a given device.  To achieve this requires not only identification of devices but the capability for the device to reliably attest to a variety of device characteristics.
 
