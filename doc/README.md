@@ -5,6 +5,7 @@ Summary of TCG DICE WG Documents, organized chronologically:
 - **Symmetric Identity Based Device Attestation** - DICE symmetric attestation specification
 - **DICE Layering Architecture** - Architectural specification for DICE
 - **DICE Certificate Profiles** - DICE certificate profiles specification
+- **DICE Attestation Architecture** - DICE attestation architecture specification
 
 Demo content and presentations:
 - Foundational Trust for IoT and Resource Constrained Devices
